@@ -17,4 +17,4 @@ data = sock.recv(1024)
     print('Connection from %s closed' % addr[0])
     
 ss=1
-sdsd='pj'
+sdsd='mj'
